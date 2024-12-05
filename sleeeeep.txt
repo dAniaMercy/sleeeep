@@ -1,0 +1,5 @@
+1 -> void delay(unsigned milliseunds);
+2 -> void sleep(unsigned seconds);
+3 -> void int86(int x, union REGS *inregs, union REGS *outregs)
+
+
